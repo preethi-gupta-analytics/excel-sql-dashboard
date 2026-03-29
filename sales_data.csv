@@ -1,0 +1,31 @@
+Order_ID,Customer_Name,Country,Product_Name,Category,Quantity,Price,Total_Amount,Order_Date,Payment_Method
+1,Alice,India,Laptop,Electronics,1,50000,50000,2025-01-01,Credit Card
+2,Bob,USA,Headphones,Electronics,1,2000,2000,2025-02-01,UPI
+3,Charlie,UK,Shoes,Fashion,1,3000,3000,2025-03-01,Debit Card
+4,David,Canada,T-shirt,Fashion,2,1000,2000,2025-05-01,Cash
+5,Eva,India,Book,Education,1,500,500,2025-06-01,Credit Card
+6,Frank,USA,Laptop,Electronics,1,50000,50000,2025-07-01,Debit Card
+7,Grace,UK,T-shirt,Fashion,3,1000,3000,2025-08-01,UPI
+8,Henry,Canada,Book,Education,2,500,1000,2025-09-01,Credit Card
+9,Isabella,India,Headphones,Electronics,2,2000,4000,2025-10-01,Cash
+10,Jack,USA,Shoes,Fashion,1,3000,3000,2025-11-01,Credit Card
+11,Karen,India,Laptop,Electronics,1,50000,50000,2025-12-02,UPI
+12,Liam,UK,Book,Education,1,500,500,2025-02-13,Debit Card
+13,Mia,Canada,Headphones,Electronics,1,2000,2000,2025-02-14,Credit Card
+14,Noah,USA,T-shirt,Fashion,2,1000,2000,2025-02-15,UPI
+15,Olivia,India,Shoes,Fashion,1,3000,3000,2025-02-16,Cash
+16,Peter,UK,Laptop,Electronics,1,50000,50000,2025-02-17,Debit Card
+17,Quinn,Canada,Book,Education,2,500,1000,2025-02-18,Credit Card
+18,Rachel,USA,Headphones,Electronics,1,2000,2000,2025-02-19,UPI
+19,Sam,India,T-shirt,Fashion,3,1000,3000,2025-02-20,Cash
+20,Tina,UK,Shoes,Fashion,1,3000,3000,2025-03-21,Debit Card
+21,Uma,Canada,Laptop,Electronics,1,50000,50000,2025-03-22,Credit Card
+22,Victor,USA,Book,Education,1,500,500,2025-03-23,UPI
+23,Wendy,India,Headphones,Electronics,2,2000,4000,2025-03-24,Cash
+24,Xander,UK,T-shirt,Fashion,1,1000,1000,2025-03-25,Debit Card
+25,Yara,Canada,Shoes,Fashion,2,3000,6000,2025-03-26,Credit Card
+26,Zane,USA,Laptop,Electronics,1,50000,50000,2025-03-27,UPI
+27,Aaron,India,Book,Education,1,500,500,2025-03-28,Credit Card
+28,Bella,UK,Headphones,Electronics,1,2000,2000,2025-03-29,Debit Card
+29,Cody,Canada,T-shirt,Fashion,2,1000,2000,2025-03-30,UPI
+30,Diana,India,Shoes,Fashion,1,3000,3000,2025-03-31,Cash
